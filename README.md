@@ -7,7 +7,7 @@ The main objective was not only to visualize the data, but to deeply understand 
 
 The focus of this analysis is transforming raw transactional data into meaningful business insights that can support data-driven decision making.
 
-**Objectives**
+## Objectives
 
 * Clean and preprocess the dataset
 
@@ -21,7 +21,7 @@ The focus of this analysis is transforming raw transactional data into meaningfu
 
 * Derive actionable business insights
 
-**Data Preparation**
+## Data Preparation
 
 The following preprocessing steps were performed:
 
@@ -35,7 +35,7 @@ The following preprocessing steps were performed:
 
 The goal was to ensure the dataset was reliable before performing any analytical operations.
 
-**Exploratory Data Analysis**
+## Exploratory Data Analysis
 
 The analysis included:
 
@@ -63,7 +63,7 @@ The analysis included:
 
 * Identifying cases where discounts negatively impact the bottom line
 
-**Key Insights**
+## Key Insights
 
 * High discounts do not necessarily lead to higher profits.
 
@@ -75,7 +75,7 @@ The analysis included:
 
 This highlights the importance of analyzing profitability, not just sales volume.
 
-**Business Recommendations**
+## Business Recommendations
 
 Based on the analysis:
 
@@ -87,7 +87,7 @@ Based on the analysis:
 
 * Align pricing and promotional strategies with profitability metrics rather than revenue alone.
 
-**Tools & Libraries Used**
+## Tools & Libraries Used
 
 * Python
 
@@ -99,7 +99,7 @@ Based on the analysis:
 
 * Seaborn
 
-**Conclusion**
+## Conclusion
 
 This project demonstrates how Exploratory Data Analysis can uncover valuable business insights beyond basic visualization.
 
