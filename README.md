@@ -1,6 +1,6 @@
 # Superstore Sales Analysis – Exploratory Data Analysis (EDA)
 
-**Project Overview**
+## Project Overview
 
 This project presents an Exploratory Data Analysis (EDA) of the Superstore dataset.
 The main objective was not only to visualize the data, but to deeply understand the business patterns behind sales, profit, and discount behavior.
